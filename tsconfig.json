@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "module": "es6",
+      "jsx": "react",
+      "strict": false,
+      "esModuleInterop": true,
+      "sourceMap": true,
+      "outDir": "dist",
+      "noEmitOnError": false,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+    }
+  }
+  
